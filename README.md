@@ -24,15 +24,15 @@ void main() {
 ```
 
 ## Support:
-[x] CONNECTED,
-[x] CONNECT
-[x] SUBSCRIBE
-[x] MESSAGE
-[x] SEND
-[] UNSUBSCRIBE
-[] ERROR
-[] ACK
-[] NACK
-[] BEGIN
-[] COMMIT
-[] ABORT
+- [x] CONNECTED
+- [x] CONNECT
+- [x] SUBSCRIBE
+- [x] MESSAGE
+- [x] SEND
+- [ ] UNSUBSCRIBE
+- [ ] ERROR
+- [ ] ACK
+- [ ] NACK
+- [ ] BEGIN
+- [ ] COMMIT
+- [ ] ABORT
