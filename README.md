@@ -2,7 +2,7 @@
 
 Dart STOMP client implementation.
 
-Paynal is a simple [STOMP v1.2](https://stomp.github.io/stomp-specification-1.2.html) implementation. STOMP (The Simple Text Oriented Messaging Protocol) is a very simple and easy to implement protocol, coming from the HTTP school of design create by
+Paynal is a simple [STOMP v1.2](https://stomp.github.io/stomp-specification-1.2.html) implementation. STOMP (The Simple Text Oriented Messaging Protocol) is a very simple and easy to implement protocol, coming from the HTTP school of design.
 
 ## Usage:
 
@@ -29,7 +29,7 @@ void main() {
 - [x] SUBSCRIBE
 - [x] MESSAGE
 - [x] SEND
-- [ ] UNSUBSCRIBE
+- [X] UNSUBSCRIBE
 - [ ] ERROR
 - [ ] ACK
 - [ ] NACK
