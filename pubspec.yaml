@@ -1,6 +1,6 @@
 name: paynal
 description: Dart STOMP client
-version: 0.1.1
+version: 0.1.2
 repository: https://github.com/ushieru/paynal_dart
 
 environment:
